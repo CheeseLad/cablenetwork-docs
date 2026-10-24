@@ -17,6 +17,7 @@ Shop-only players do not need `/bypassgroup`. If you later qualify for a donatio
 ### Important Rules
 - **Paid purchases do not use donor free-claim slots** and cannot be removed using player free-claim commands.
 - A bypass already granted by a free claim, a rank, or another group cannot be purchased again.
+- Bypasses purchased using in-game money are **non-refundable** and **non-changeable**.
 
 ## For All Players
 
