@@ -1,4 +1,4 @@
-### Cable Network | Donation Information
+# Cable Creative Roleplay | Donation Information
 
 *If you have any suggestions for this document, please let us know on Discord!*
 

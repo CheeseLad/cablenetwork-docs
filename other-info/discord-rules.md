@@ -1,4 +1,4 @@
-### Cable Network | Discord Rules
+# Cable Network | Discord Rules
 
 *If you have any suggestions for this document, please let us know on Discord!*
 

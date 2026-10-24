@@ -1,4 +1,4 @@
-### Cable Network | Commands
+# Cable Creative Roleplay | Commands
 
 *If you have any suggestions for this document, please let us know on Discord!*
 
