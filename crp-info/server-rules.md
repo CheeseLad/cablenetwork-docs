@@ -106,7 +106,7 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
 
 ## Teaming Rules
 
-* Avenging someone who has killed your teammate for self-defence is allowed. However, if it’s been more than 2 minutes or they are somewhere else, it isn’t allowed.  
+* Avenging someone who has killed your teammate (Must be in the same group as them) for self defense is allowed. However, if it’s been more than 2 minutes or they are somewhere else, it isn’t allowed. Do be cautious, as this a a very finicky rule and can be judged on a case by case basis.
     
 * Don't give your teammate group perms (with explosives and unblacklisted gear etc.) If they're not a high rank in your faction.  
     
