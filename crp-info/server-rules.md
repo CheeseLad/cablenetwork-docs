@@ -4,6 +4,8 @@
 
 As long as everyone is having fun, then whatever you are doing is likely to be fine. Rules aren’t meant to be strict but rather are meant to keep everything fair and make sure nobody’s getting violated. **(YOU ARE NOT PERMITTED TO USE THESE RULES FOR YOUR OWN SERVER)**
 
+STAFF HAVE FINAL DISCRETION OF THE RULES. RULES MAY CHANGE AT ANY TIME.
+
 ## KOS Rules
 
 All types of KOS are prohibited, different types of KOS can be, but are not limited to:
@@ -12,7 +14,7 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
     
 * Revenge KOS (RKOS), This means killing someone as revenge for killing you.  
     
-* Vehicle KOS (VKOS), This means killing someone with a vehicle, if the person is on the sidewalk or if you swerve into them.  
+* Vehicle KOS (VKOS), This means killing someone with a vehicle, if the person is on the sidewalk or if you swerve into them. (Do not purposely run players over who are on the road)
     
 * Mass KOS (MKOS), This means KOSing 5+ people with any of the other forms, in a short amount of time.  
     
@@ -29,6 +31,10 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
 * No-fly zones are for **official groups** only. IF someone is flying above your base for no reason and for long periods, inform staff or try to shoot them down after 3 warnings. Shooting someone down randomly will be considered KOS and will be punished
 
 ## Roleplay Rules
+
+* Police may not camp players at NPCs to arrest/search them.
+
+* Players must not camp NPCs to benefit from the robbing of players before or after they make their transaction.
 
 * Robbing someone while they have a gun out is FRP, if there are two of you it's fine, if it is a 2v2, it is HIGHLY suggested you do not engage.  
     
@@ -52,36 +58,35 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
 
 ## Basing Rules
 
+* You can own 2 properties (apartment rooms,freebuilt houses, prop houses, shops) if you desire, one being for housing purposes and the other one for business. **IF** you have a room in a faction base you can’t own a property for housing since you already have a home.  
+
 * You are allowed to build in any house or shop, you can also claim 1 apartment floor in a city, but not the full building.
 
 * You must not remove a window, shoot through it and then replace it.
-
 
 * You are allowed to build any kind of free-built structures **(within limits and outside of Main Towns/Cities)**  
     
 * You are allowed to claim a pre-built building floor, room or house in a town or city.  
     
-* You are **NOT** allowed to build in any claimed areas for yourself only (Contact a group manager if you want to request to claim an area for your group).
+* You are **NOT** allowed to build in any named locations for yourself only (Contact a group manager if you want to request to claim an area for your group).
 
 * Sky bases and water bases (shaped like boats or underwater) are **not** allowed. Bases or shops near the waterfront are allowed.
 
-* Freebuilt homes or buildings must be at most 3x3x2.  
+* Freebuilt homes or buildings must be at most 3x3x2. (Seek Moderator+ approval for larger structures)
     
 * Freebuilt homes or buildings must have no more than 10 light sources.  
     
-* If your base/group base is too laggy up to staff judgment it will be removed.  
+* If your base/group base is too laggy it is up to the staffs judgment for it to be removed or lowered in asset count.
     
-* Groups can only claim one building, any group that owns a whole town, multiple buildings, or multiple facilities reserved under their name will be warned, and the ownership of the builds removed. 
+* Groups can only claim one building, any group that owns a whole town, multiple buildings, or multiple facilities reserved under their name will be warned, and the ownership of the builds removed. (Unless Management Approval)
 
 * Groups can make a compound as long as each building follows the build limits. Each building will count towards someone's base.  
     
-* Building large-scale bases in the underground will net you a wipe or ban depending on how large it is, this boils down to staff discretion  
+* Building large-scale bases in the underground will net you a wipe or ban depending on how large it is, this boils down to staff discretion.
     
 * Groups may also claim small named locations. (excluding towns)  
     
 * No Griefing bases (building anything inside and on the outside of a building of someone else without permission), This excludes the placement of a single note on a base, placing an item on a base then removing it immediately will result in a warn also.
-
-* You can own 2 properties (apartment rooms,freebuilt houses, prop houses, shops) if you desire, one being for housing purposes and the other one for business. **IF** you have a room in a faction base you can’t own a property for housing since you already have a home.  
     
 * No raiding property of others (doesn't matter what it is), this includes accidental raiding unless said person forgives you. If you encounter any items or vehicles that can raid, please inform a staff member immediately.
 
@@ -154,30 +159,12 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
 * Do not bait a person by doing something illegal or annoying in order to get a reason to kill them.
 
 ## Rules Regarding Placing Hits
-
-*Hits are managed in the Discord Server only*
-
-* No placing hits on yourself.  
     
-* The minimum hit amount is \$2000 cables.
-
-* Hitmen CAN censor the names of those who placed the hit, to protect the buyer.  
-    
-* Must send a cropped pic of the person requesting the hit + payment in the #hitman-hits discord channel (only they can write in).  
-    
-* Payment must be done before the hit is completed. (not in effect if hitman plugin is being used).
-
-* The request by the client must be done in area chat or via the /msg command.
-
-* Must inform other hitmen in hitman discord they have successfully completed a hit on {person} to prevent double hits on 1 person.  
-    
-* No placing hits on a person who already has a hit on them.   
-    
-* No placing hits on someone who has had a hit on them in the last 3 hours.  
-    
-* You CANNOT kill the hitman after you unless you have a valid reason such as overhearing them.  
+* The minimum hit amount is \$2000.
     
 * TPA baiting is not allowed for hits.
+
+* See the Hitman League Group for all Hitman based Rules.
 
 ## Rules Regarding Bank Robbery Events
 
