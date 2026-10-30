@@ -40,11 +40,11 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
     
 * FailRP is prohibited, An example of this is using world chat screaming "I'M BEING KIDNAPPED" while being kidnapped, teleporting/warping away in a roleplay situation, pulling out a gun mid-robbery and killing your robber, spawning a weapon while in jail/or when you are kidnapped or meta gaming through discord or from another resource.
 
-* FearRP is in effect, This means that, for example when you're being kidnapped by 3 fully armed people that you must cooperate, seen as your character would be scared in that situation, however if you have a gun out then you cannot be robbed in the open.  
+* FearRP is in effect, This means that, for example when you're being kidnapped by 2 fully armed people, you must cooperate, seen as your character would be scared in that situation. However if you have a gun out then you cannot be robbed in the open.  
     
 * NLR (New Life Rule) is also in effect. When you die in a RP Situation (attacking the military or someone else included)  you aren't allowed to go back to the spot you died at for 3 minutes, this rule does not apply if you got KOSed
 
-* Shooting while tased is considered FRP and will be punished  
+* Shooting/attacking while tased is considered FRP and will be punished  
     
 * Cuffing an officer while they're dragging someone is considered FRP and will be punished.
 
@@ -58,7 +58,9 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
 
 ## Basing Rules
 
-* You can own 2 properties (apartment rooms,freebuilt houses, prop houses, shops) if you desire, one being for housing purposes and the other one for business. **IF** you have a room in a faction base you can’t own a property for housing since you already have a home.  
+* You can own 2 properties (apartment rooms,freebuilt houses, prop houses, shops) if you desire, one being for housing purposes and the other one for business. **IF** you have a room in a faction base you can’t own a property for housing since you already have a home.
+
+* You may not free build near the Washington Penitentiary (Police Base) or the Camano Compound (Hitman Base).
 
 * You are allowed to build in any house or shop, you can also claim 1 apartment floor in a city, but not the full building.
 
@@ -68,9 +70,9 @@ All types of KOS are prohibited, different types of KOS can be, but are not limi
     
 * You are allowed to claim a pre-built building floor, room or house in a town or city.  
     
-* You are **NOT** allowed to build in any named locations for yourself only (Contact a group manager if you want to request to claim an area for your group).
+* You are **NOT** allowed to claim any named locations for yourself/group only (Open a Group Application Ticket if you want to request to claim an area for your group).
 
-* Sky bases and water bases (shaped like boats or underwater) are **not** allowed. Bases or shops near the waterfront are allowed.
+* Sky bases and water bases (shaped like boats or underwater) are **not** allowed. (Unless Approved by Moderator+) Bases or shops near the waterfront are allowed.
 
 * Freebuilt homes or buildings must be at most 3x3x2. (Seek Moderator+ approval for larger structures)
     
